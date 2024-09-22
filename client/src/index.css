@@ -1,0 +1,10 @@
+/* styles.css (or styles.scss) */
+
+/* Importing base styles */
+@import 'tailwindcss/base';
+
+/* Importing component styles */
+@import 'tailwindcss/components';
+
+/* Importing utility styles */
+@import 'tailwindcss/utilities';
